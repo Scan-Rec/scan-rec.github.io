@@ -1,0 +1,24 @@
+remote_theme: scan-rec/git-wiki-theme
+title: "AKE Automatisierte Kennzeichenerkennung"
+description: "Dokumentation dessen was wir über die automatisierte Kennzeichenerkennung (AKE) und deren Standorte und Auffindung wissen"
+logo_url: https://raw.githubusercontent.com/Scan-Rec/Scan-Rec/master/Ressourcen/Scan-Reg%20Logo.png
+show_wiki_pages: true
+#wiki_folder: "wiki"
+search_engine: "js"
+use_prose_io: false
+use_github_wiki: false
+#custom_head: ""
+inc_after_styles: "anpassungen.html"
+defaults:
+ -
+    scope:
+      path: ""
+    values:
+      layout: "git-wiki-default"
+      
+ -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "git-wiki-default"

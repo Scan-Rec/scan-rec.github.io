@@ -13,7 +13,7 @@ Die nachfolgenden Beschreibungen beziehen sich auf die bayerischen Kennzeichensc
 Die Kennzeichenscanner sind meist so angebracht, dass sie kurz nach der Landesgrenze (Ausland oder andere Bundesländer) in Richtung Landesinnere stehen. In Richtung Ausland stehen die Scanner ca. 50-150 km vor der Grenze. Dadurch bleibt genug Zeit im weiteren Streckenverlauf auf die Autobahn zu fahren und das Fahrzeug herauszuziehen oder um schnell abzufahren, sollte man ohne Umgehungsmaßnahmen durch einen Scanner gefahren sein :grin:
 Vermutlich liefern die Anlagen auch die gefahrene Geschwindigkeit mit, sodass sich die erwartete Auffangposition besser abschätzen lässt. An der A8 sieht man des Öfteren in Richtung Österreich sogar „Abfangjäger“, die sich an zahlreichen (Behelfs-)Ausfahren positioniert haben. Die Kennzeichenscannerpositionen sind sehr strategisch gewählt. Eine weiträumige Versetzung ist daher unpraktikabel und in der näheren Umgebung sind sie schnell wiedergefunden.
 
-### Örtliche Lage der AKE
+### Örtliche Lage der Kennzeichenscanner auf Autobahnen
 Die Scanner sind meist an Standorten angebracht, die hinter Lärmschutzwänden, Erdwällen oder natürlichem Sichtschutz liegen, sodass sie von Spaziergängern, Landwirten usw. nur selten zu Gesicht bekommen sind.
 
 Beispiel Kennzeichenscanner auf der A8 bei Aufham:

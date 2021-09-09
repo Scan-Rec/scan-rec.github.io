@@ -145,7 +145,7 @@ Umfahrung? Durch den Ort Farchant möglich.
 
 <a href="https://github.com/Scan-Rec/Scan-Rec/raw/master/Ressourcen/AKE-Bayern-Bilder/B2-Vor-Tunnel-Farchant-Richtung-Norden.jpg"><img width="600" src="https://github.com/Scan-Rec/Scan-Rec/raw/master/Ressourcen/AKE-Bayern-Bilder/B2-Vor-Tunnel-Farchant-Richtung-Norden.jpg" alt="AKE B2 E553 Vor dem Tunnel Farchant in Richtung München mit IR Blitz" title="AKE B2 E553 Vor dem Tunnel Farchant in Richtung München mit IR Blitz" /></a>
 
-Bedingt durch den Sonnenstand schlechte Bildqualität. 
+Bedingt durch den Sonnenstand schlechte Bildqualität. Auf dem Bild ist nur eine Einheit erkennbar.
 
 An der letzten Schilderbrücke vor Einfahrt in den Tunnel. Clever gewählter Standort, Verkehrsströme aus Österreich von B23 und B2 vereinen sich hier.
 

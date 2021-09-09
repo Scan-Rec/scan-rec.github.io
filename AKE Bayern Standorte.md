@@ -51,7 +51,9 @@ Umfahrung? Abfahren und wieder Auffahren
 
 Direkt an der Brücke der Ausfahrt, bestehend aus einer Lidar- und einer Fotoeinheit. 
 
-## AKE A8 Seehamer See Richtung Salzburg
+## AKE A8 Seehamer See Richtung Salzburg bzw. Weyarn
+
+Update September 2021: Die Anlage wurde sehr wahrscheinlich ein paar km Richtung München an die erste Schilderbrücke nach der Auffahrt Weyarn verschoben. Der Ersteller dieser Webseite und des Erkennungsystems hat als Beifahrer nur einen kurzen Blick auf die Anlage erhaschen können. Die Bilder sind noch die der alten Position. Auch zur Umfahrung kann aktuell keine Aussage getroffen werden.
 
 Umfahrung? Sehr wahrscheinlich über Standstreifen möglich
 
@@ -134,4 +136,18 @@ Umfahrung? Wahrscheinlich über Ausfahrtsspur möglich
 <a href="https://raw.githubusercontent.com/Scan-Rec/Scan-Rec/master/Ressourcen/AKE-Bayern-Bilder/A93_AKE_Kiefersfelden.jpg"><img width="600" src="https://raw.githubusercontent.com/Scan-Rec/Scan-Rec/master/Ressourcen/AKE-Bayern-Bilder/A93_AKE_Kiefersfelden.jpg" alt="AKE A93 Kiefersfelden Richtung München" title="AKE A93 Kiefersfelden Richtung München" /></a>
 
 Direkt an der Brücke Auffahrt Kiefersfelden. Auffahrender Verkehr wird nicht gesannt. Sichere Umfahrung von Österreich aus über B175 und B171.
+
+## AKE B2 E553 Vor dem Tunnel Farchant in Richtung München
+
+Umfahrung? Durch den Ort Farchant möglich.
+
+<a href="https://github.com/Scan-Rec/Scan-Rec/raw/master/Ressourcen/AKE-Bayern-Bilder/B2-Vor-Tunnel-Farchant-Richtung-Norden-Blitz.jpg"><img width="600" src="https://github.com/Scan-Rec/Scan-Rec/raw/master/Ressourcen/AKE-Bayern-Bilder/B2-Vor-Tunnel-Farchant-Richtung-Norden-Blitz.jpg" alt="AKE B2 E553 Vor dem Tunnel Farchant in Richtung München mit IR Blitz" title="AKE B2 E553 Vor dem Tunnel Farchant in Richtung München mit IR Blitz" /></a>
+
+<a href="https://github.com/Scan-Rec/Scan-Rec/raw/master/Ressourcen/AKE-Bayern-Bilder/B2-Vor-Tunnel-Farchant-Richtung-Norden.jpg"><img width="600" src="https://github.com/Scan-Rec/Scan-Rec/raw/master/Ressourcen/AKE-Bayern-Bilder/B2-Vor-Tunnel-Farchant-Richtung-Norden.jpg" alt="AKE B2 E553 Vor dem Tunnel Farchant in Richtung München mit IR Blitz" title="AKE B2 E553 Vor dem Tunnel Farchant in Richtung München mit IR Blitz" /></a>
+
+Bedingt durch den Sonnenstand schlechte Bildqualität. 
+
+An der letzten Schilderbrücke vor Einfahrt in den Tunnel. Clever gewählter Standort, Verkehrsströme aus Österreich von B23 und B2 vereinen sich hier.
+
+
 

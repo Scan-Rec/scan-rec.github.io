@@ -9,6 +9,8 @@ use_prose_io: false
 use_github_wiki: false
 #custom_head: ""
 inc_after_styles: "anpassungen.html"
+plugins:
+  - jekyll-seo-tag
 defaults:
  -
     scope:

@@ -4,7 +4,7 @@ permalink: /
 ---
 
 #  AKE Kennzeichenscanner Wiki
-Herzlich Willkommen im Wiki über die automatisierte Kennzeichen-Erkennung.
+Herzlich Willkommen im Wiki über die automatisierte Kennzeichen-Erkennung. Hier dreht sich alles um Kennzeichenscanner auf Autobahnen und Europastraßen bzw. Bundestraßen. Hier geht es um die Technik der Kennzeichenscanner, ihre Standorte, sowie die Erkennung der automatisierten Kennzeichenerfassung und Umgehungs- und Schutzmaßnahmen gegen die Kennzeichenerfassung.
 
 ![](https://raw.githubusercontent.com/Scan-Rec/Scan-Rec/master/Ressourcen/Scan-Reg%20Logo.png) 
 

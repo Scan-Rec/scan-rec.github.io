@@ -55,11 +55,11 @@ Direkt an der Brücke der Ausfahrt, bestehend aus einer Lidar- und einer Fotoein
 
 Umfahrung? Sehr wahrscheinlich über Standstreifen möglich
 
-<a href="https://raw.githubusercontent.com/Scan-Rec/Scan-Rec/master/Ressourcen/AKE-Bayern-Bilder/A8-Richtung-Salzburg.jpg"><img width="600" src="https://raw.githubusercontent.com/Scan-Rec/Scan-Rec/master/Ressourcen/AKE-Bayern-Bilder/A8-Richtung-Salzburg.jpg" alt="AKE A8 Seehamer See Richtung Salzburg Lidar" title="AKE A8 Seehamer See Richtung Salzburg Lidar" /></a>
+<a href="https://raw.githubusercontent.com/Scan-Rec/Scan-Rec/master/Ressourcen/AKE-Bayern-Bilder/A8-Weyarn-Richtung-Salzburg.jpg"><img width="600" src="https://raw.githubusercontent.com/Scan-Rec/Scan-Rec/master/Ressourcen/AKE-Bayern-Bilder/A8-Weyarn-Richtung-Salzburg.jpg" alt="AKE A8 Seehamer See Richtung Salzburg IT-Blitz und Lidar" title="AKE A8 Seehamer See Richtung Salzburg IT-Blitz und Lidar" /></a>
 
-<a href="https://raw.githubusercontent.com/Scan-Rec/Scan-Rec/master/Ressourcen/AKE-Bayern-Bilder/A8-Richtung-Salzburg-von-Gegenverkehr.jpg"><img width="600" src="https://raw.githubusercontent.com/Scan-Rec/Scan-Rec/master/Ressourcen/AKE-Bayern-Bilder/A8-Richtung-Salzburg-von-Gegenverkehr.jpg" alt="AKE A8 Seehamer See Richtung Salzburg Tagaufnahme" title="AKE A8 Seehamer See Richtung Salzburg Tagaufnahme" /></a>
+<a href="https://raw.githubusercontent.com/Scan-Rec/Scan-Rec/master/Ressourcen/AKE-Bayern-Bilder/A8-Weyarn-Richtung-Salzburg-Detail.jpg"><img width="600" src="https://raw.githubusercontent.com/Scan-Rec/Scan-Rec/master/Ressourcen/AKE-Bayern-Bilder/A8-Weyarn-Richtung-Salzburg-Detail.jpg" alt="AKE A8 Seehamer See Richtung Salzburg Detailaufnahme" title="AKE A8 Seehamer See Richtung Salzburg Detailaufnahme" /></a>
 
-Früher stand diese Anlage am Seehamer See, siehe [AKE 8 Seehamer See] (https://scan-rec.github.io/Ehemalige-AKE-Standorte-Bayern#ake-a8-seehamer-see-richtung-salzburg).
+Früher stand diese Anlage am Seehamer See, siehe [AKE A8 Seehamer See](https://scan-rec.github.io/Ehemalige-AKE-Standorte-Bayern#ake-a8-seehamer-see-richtung-salzburg).
 
 ## AKE A8 Aufham Richtung München
 

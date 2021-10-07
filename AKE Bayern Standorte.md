@@ -5,7 +5,7 @@ permalink: /AKE-Standorte-Bayern
 
 # Automatisierte Kennzeichenerkennung Bayern Standorte
 Während der Artikel [AKE Standorte](https://scan-rec.github.io/AKE-Standorte) primär allgemeine Informationen zu den Standorten der automatisierten Kennzeichenerkennung enthält, geht es hier um die Standorte der bayerischen AKEs. Alle AKEs übersichtlich auf einer Karte gibt es unter [AKE Deutschland Standorte](https://umap.openstreetmap.fr/en/map/ake-deutschland_234435)
-Zu jeder AKE ist angegeben, ob sie zum Zeitpunkt der Aufnahme ohne große Umwege umfahren werden kann. Die Anlagen können mittlerweile umgebaut worden sein um dieses Schlupfloch zu schließen. Haben sich die Anlagen im Vergleich zu den Bildern nicht geändert, trifft die Umfahraussage mit hoher Wahrscheinlichkeit weiterhin zu.
+Zu jeder AKE ist angegeben, ob sie zum Zeitpunkt der Aufnahme ohne große Umwege umfahren werden kann. Die Anlagen können mittlerweile umgebaut worden sein um dieses Schlupfloch zu schließen. Haben sich die Anlagen im Vergleich zu den Bildern nicht geändert, trifft die Umfahraussage mit hoher Wahrscheinlichkeit weiterhin zu. Zum Umfahren von Kennzeichenscannern auf Autobahnen findet sich hier ein komplette Abschnitt mit wissenswerten Tipps und Tricks [Kennzeichenscanner umgehen](https://scan-rec.github.io/Schutzmassnahmen-gegen-Kennzeichenerfassung#ake-umfahrung-%C3%BCber-standstreifen)
 
 # AKE Bayern Standorte aufsteigend nach Autobahn von Nord nach Süd und West nach Ost
 
@@ -51,9 +51,7 @@ Umfahrung? Abfahren und wieder Auffahren
 
 Direkt an der Brücke der Ausfahrt, bestehend aus einer Lidar- und einer Fotoeinheit. 
 
-## AKE A8 Seehamer See Richtung Salzburg bzw. Weyarn
-
-Update September 2021: Die Anlage wurde sehr wahrscheinlich ein paar km Richtung München an die erste Schilderbrücke nach der Auffahrt Weyarn verschoben. Der Ersteller dieser Webseite und des Erkennungsystems hat als Beifahrer nur einen kurzen Blick auf die Anlage erhaschen können. Die Bilder sind noch die der alten Position. Auch zur Umfahrung kann aktuell keine Aussage getroffen werden.
+## AKE A8 Weyarn Richtung Salzburg 
 
 Umfahrung? Sehr wahrscheinlich über Standstreifen möglich
 
@@ -61,7 +59,7 @@ Umfahrung? Sehr wahrscheinlich über Standstreifen möglich
 
 <a href="https://raw.githubusercontent.com/Scan-Rec/Scan-Rec/master/Ressourcen/AKE-Bayern-Bilder/A8-Richtung-Salzburg-von-Gegenverkehr.jpg"><img width="600" src="https://raw.githubusercontent.com/Scan-Rec/Scan-Rec/master/Ressourcen/AKE-Bayern-Bilder/A8-Richtung-Salzburg-von-Gegenverkehr.jpg" alt="AKE A8 Seehamer See Richtung Salzburg Tagaufnahme" title="AKE A8 Seehamer See Richtung Salzburg Tagaufnahme" /></a>
 
-An einer Schilderbrücke angebracht, sehr schlecht getarnt.
+Früher stand diese Anlage am Seehamer See, siehe [AKE 8 Seehamer See] (https://scan-rec.github.io/Ehemalige-AKE-Standorte-Bayern#ake-a8-seehamer-see-richtung-salzburg).
 
 ## AKE A8 Aufham Richtung München
 

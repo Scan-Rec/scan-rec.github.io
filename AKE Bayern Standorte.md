@@ -65,6 +65,12 @@ Früher stand diese Anlage am Seehamer See, siehe [AKE A8 Seehamer See](https://
 
 Umfahrung? Über Standstreifen möglich
 
+IR-Aufnahme September 2021:
+
+<a href="https://raw.githubusercontent.com/Scan-Rec/Scan-Rec/master/Ressourcen/AKE-Bayern-Bilder/A8-Aufham-Richtung-M%C3%BCnchen-IR-Blitz.jpg"><img width="600" src="https://raw.githubusercontent.com/Scan-Rec/Scan-Rec/master/Ressourcen/AKE-Bayern-Bilder/A8-Aufham-Richtung-M%C3%BCnchen-IR-Blitz.jpg" alt="AKE A8 Aufham Richtung München IR-Aufnahme mit IR-Blitz und Lidar" title="AKE A8 Aufham Richtung München IR-Aufnahme mit IR-Blitz und Lidar" /></a>
+
+Aufnahme aus dem Gegenverkehr Dezember 2018:
+
 <a href="https://raw.githubusercontent.com/Scan-Rec/Scan-Rec/master/Ressourcen/AKE-Bayern-Bilder/A8-Aufham-Richtung-M%C3%BCnchen.jpg"><img width="600" src="https://raw.githubusercontent.com/Scan-Rec/Scan-Rec/master/Ressourcen/AKE-Bayern-Bilder/A8-Aufham-Richtung-M%C3%BCnchen.jpg" alt="AKE A8 Aufham Richtung München Tagaufnahme" title="AKE A8 Aufham Richtung München Tagaufnahme" /></a>
 
 <a href="https://raw.githubusercontent.com/Scan-Rec/Scan-Rec/master/Ressourcen/AKE-Bayern-Bilder/A8-Aufham-Richtung-M%C3%BCnchen-BR.jpg"><img width="600" src="https://raw.githubusercontent.com/Scan-Rec/Scan-Rec/master/Ressourcen/AKE-Bayern-Bilder/A8-Aufham-Richtung-M%C3%BCnchen-BR.jpg" alt="AKE A8 Aufham Richtung München Tagaufnahme Quelle Bayerischer Rundfunk" title="AKE A8 Aufham Richtung München Tagaufnahme Quelle Bayerischer Rundfunk" /></a>

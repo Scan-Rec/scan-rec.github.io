@@ -145,9 +145,9 @@ Direkt an der Brücke Auffahrt Kiefersfelden. Auffahrender Verkehr wird nicht ge
 
 Umfahrung? Durch den Ort Farchant möglich.
 
-<a href="https://github.com/Scan-Rec/Scan-Rec/raw/master/Ressourcen/AKE-Bayern-Bilder/B2-Vor-Tunnel-Farchant-Richtung-Norden-Blitz.jpg"><img width="600" src="https://github.com/Scan-Rec/Scan-Rec/raw/master/Ressourcen/AKE-Bayern-Bilder/B2-Vor-Tunnel-Farchant-Richtung-Norden-Blitz.jpg" alt="AKE B2 E553 Vor dem Tunnel Farchant in Richtung München mit IR Blitz" title="AKE B2 E553 Vor dem Tunnel Farchant in Richtung München mit IR Blitz" /></a>
+<a href="https://raw.githubusercontent.com/Scan-Rec/Scan-Rec/master/Ressourcen/AKE-Bayern-Bilder/B2-Vor-Tunnel-Farchant-Richtung-Norden-Blitz.jpg"><img width="600" src="https://raw.githubusercontent.com/Scan-Rec/Scan-Rec/master/Ressourcen/AKE-Bayern-Bilder/B2-Vor-Tunnel-Farchant-Richtung-Norden-Blitz.jpg" alt="AKE B2 E553 Vor dem Tunnel Farchant in Richtung München mit IR Blitz" title="AKE B2 E553 Vor dem Tunnel Farchant in Richtung München mit IR Blitz" /></a>
 
-<a href="https://github.com/Scan-Rec/Scan-Rec/raw/master/Ressourcen/AKE-Bayern-Bilder/B2-Vor-Tunnel-Farchant-Richtung-Norden.jpg"><img width="600" src="https://github.com/Scan-Rec/Scan-Rec/raw/master/Ressourcen/AKE-Bayern-Bilder/B2-Vor-Tunnel-Farchant-Richtung-Norden.jpg" alt="AKE B2 E553 Vor dem Tunnel Farchant in Richtung München mit IR Blitz" title="AKE B2 E553 Vor dem Tunnel Farchant in Richtung München mit IR Blitz" /></a>
+<a href="https://raw.githubusercontent.com/Scan-Rec/Scan-Rec/master/Ressourcen/AKE-Bayern-Bilder/B2-Vor-Tunnel-Farchant-Richtung-Norden.jpg"><img width="600" src="https://raw.githubusercontent.com/Scan-Rec/Scan-Rec/master/Ressourcen/AKE-Bayern-Bilder/B2-Vor-Tunnel-Farchant-Richtung-Norden.jpg" alt="AKE B2 E553 Vor dem Tunnel Farchant in Richtung München mit IR Blitz" title="AKE B2 E553 Vor dem Tunnel Farchant in Richtung München mit IR Blitz" /></a>
 
 Bedingt durch den Sonnenstand schlechte Bildqualität. Auf dem Bild ist nur eine Einheit erkennbar.
 
